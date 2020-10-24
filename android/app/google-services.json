@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "387250157924",
+    "firebase_url": "https://technica2020-76435.firebaseio.com",
+    "project_id": "technica2020-76435",
+    "storage_bucket": "technica2020-76435.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387250157924:android:b67c53c12feaab05c86271",
+        "android_client_info": {
+          "package_name": "technica.android.package"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387250157924-9qu3hvlgegfohbut5mafk3fc9fdlvauu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZmsd4rlZ0mMnhgoqR6FB7xJ2sC89kBTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387250157924-9qu3hvlgegfohbut5mafk3fc9fdlvauu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
